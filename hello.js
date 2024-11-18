@@ -1,2 +1,1 @@
-aprendiendo-github-actions
-console.log("hello")
+coonsole.log("Hello world!")
